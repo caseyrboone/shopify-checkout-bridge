@@ -3,7 +3,8 @@
  * Plugin Name: Shopify Checkout Bridge
  * Description: Developer-oriented bridge to run a Shopify checkout flow on a WordPress page via shortcode + REST, using a vault-first card tokenization pattern.
  * Version: 0.1.0
- * Author: Your Name
+ * Author: Casey Boone
+ * Author URI: https://caseyrboone.com
  * Requires PHP: 7.4
  */
 
