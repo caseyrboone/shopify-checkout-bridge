@@ -1,0 +1,1 @@
+<?php if (!defined('WP_UNINSTALL_PLUGIN')) exit; delete_option('scb_store_domain'); delete_option('scb_access_token'); delete_option('scb_api_version');
